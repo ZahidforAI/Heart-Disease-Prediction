@@ -24,7 +24,7 @@ The dataset used in this project is sourced from [insert source], containing var
 - Implementation of various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, to evaluate model performance.
 - Hyperparameter tuning to enhance model accuracy.
 ### Results:
-The model achieved an accuracy of [insert accuracy]% on the validation dataset. Visualizations of the results provide insights into the model’s predictive capabilities and the significance of different health metrics.
+The model achieved an accuracy of 90.81% on the validation dataset. Visualizations of the results provide insights into the model’s predictive capabilities and the significance of different health metrics.
 
 ### Conclusion
 This project demonstrates the potential of machine learning in the healthcare domain, particularly in predicting heart disease risk. The findings can be utilized by healthcare professionals for informed decision-making and early intervention strategies.
