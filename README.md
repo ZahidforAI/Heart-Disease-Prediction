@@ -16,7 +16,7 @@ This project aims to predict the likelihood of heart disease in individuals base
   - Plotly for interactive graphs
   - Jupyter Notebook for developing and documenting the project.
 ### Dataset:
-The dataset used in this project is sourced from [insert source], containing various attributes such as age, sex, blood pressure, cholesterol levels, and more. The data is preprocessed to ensure quality and suitability for analysis.
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data), containing various attributes such as age, sex, blood pressure, cholesterol levels, and more. The data is preprocessed to ensure quality and suitability for analysis.
 
 ### Model Development:
 - Exploratory Data Analysis (EDA) to understand data patterns and correlations.
